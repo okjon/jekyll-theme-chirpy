@@ -139,13 +139,7 @@ layout: default
 
     {% include post-nav.html %}
 
-<script src="https://utteranc.es/client.js"
-        repo="okjon/okjon.github.io"
-        issue-term="pathname"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
+{% include utterances-comment.html %}
             
     {% if site.disqus.comments and page.comments %}
       {% include disqus.html %}
