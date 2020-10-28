@@ -129,15 +129,6 @@ layout: default
   {% include panel.html %}
 
 </div> <!-- .row -->
-
-<div> <script src="https://utteranc.es/client.js"
-        repo="okjon/okjon.github.io"
-        issue-term="title"
-        theme="github-dark"
-        crossorigin="anonymous"
-        async>
-</script>
-</div>
             
             
 <div class="row">
@@ -148,6 +139,14 @@ layout: default
 
     {% include post-nav.html %}
 
+<script src="https://utteranc.es/client.js"
+        repo="okjon/okjon.github.io"
+        issue-term="title"
+        theme="github-dark"
+        crossorigin="anonymous"
+        async>
+</script>
+            
     {% if site.disqus.comments and page.comments %}
       {% include disqus.html %}
     {% endif %}
