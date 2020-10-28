@@ -199,7 +199,3 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - robots.txt
     - redirects.json
     
-html:
-  comments:
-    utterances:
-      repo: "okjon/okjon.github.io"
