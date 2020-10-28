@@ -198,3 +198,8 @@ sitemap_exclude:  # Sitemap will exclude the following items.
     - sitemap.xml
     - robots.txt
     - redirects.json
+    
+    html:
+  comments:
+    utterances:
+      repo: "okjon/okjon.github.io"
