@@ -139,10 +139,10 @@ layout: default
 
     {% include post-nav.html %}
 
-{% include utterances-comment.html %}
+
             
-    {% if site.disqus.comments and page.comments %}
-      {% include disqus.html %}
+    {% if page.comments %}
+      {% include utterances-comment.html %}
     {% endif %}
 
     </div> <!-- #post-extend-wrapper -->
