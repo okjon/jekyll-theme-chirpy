@@ -5,7 +5,7 @@ author: Jon
 categories: [poem]
 ---
 
-> I wrote this for her who was starting a new job as a teacher in a new school. 
+> I wrote this for her who was starting a new teaching job in a school. 
 
 My love absconds to bigger ponds
 
