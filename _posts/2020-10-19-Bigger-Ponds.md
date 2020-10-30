@@ -7,15 +7,24 @@ categories: [poem]
 
 > I wrote this for her who was starting a new job as a teacher in a new school. 
 
-My love absconds to bigger ponds  
-In a new role to feed tadpoles  
-To let eggs grow their legs  
-And watch hatchlings turn to fledglings  
-Like a mother over ducklings  
-She spreads her wings and sings    
-To ears unpierced and eyes that prize  
+My love absconds to bigger ponds
+
+In a new role to feed tadpoles
+
+To let eggs grow their legs
+
+And watch hatchlings turn to fledglings
+
+Like a mother over ducklings
+
+She spreads her wings and sings
+
+To ears unpierced and eyes that prize
+
 The love of story and tales of glory  
+
 She opens minds in due time  
+
 And makes way for come what may  
 
 
