@@ -1,5 +1,5 @@
 ---
-# Style for page Category and Tag
+# Style for Tab Categories
 # v2.0
 # https://github.com/cotes2020/jekyll-theme-chirpy
 # © 2019 Cotes Chung
@@ -9,65 +9,63 @@
 
 {% include_relative _addon/main.scss %}
 
-#page-category, #page-tag {
-  ul > li {
-    line-height: 1.5rem;
-    padding: 0.6rem 0;
-    &::before { // dot
-      background: #999;
-      width: 5px;
-      height: 5px;
-      border-radius: 50%;
-      display: block;
-      content: "";
-      position: relative;
-      top: 0.6rem;
-      margin-right: 0.5rem;
+%category-icon-color {
+  color: gray;
+}
+
+.categories {
+  margin-bottom: 2rem;
+  .card-header {
+    padding-right: 12px;
+  }
+  .list-group-item {
+    border-left: none;
+    border-right: none;
+    padding-left: 2rem;
+    > i {
+      @extend %category-icon-color;
     }
-    > a { /* post's title */
-      font-size: 1.1rem;
-      @extend %no-bottom-border;
+    &:first-child {
+      border-top-left-radius: 0;
+      border-top-right-radius: 0;
     }
-    > span:last-child {
-      white-space: nowrap;
+
+  }
+
+  .card-header > span > i:first-child {
+    @extend %category-icon-color;
+  }
+
+  i {
+    &.far, &.fas {
+      font-size: 86%; // fontawesome icons
     }
-    /* post's date */
+  }
+
+} // .categories
+
+.category-trigger {
+  width: 1.7rem;
+  height: 1.7rem;
+  border-radius: 50%;
+  text-align: center;
+  color: #6c757d!important;
+  > i.fas {
+    position: relative;
+    height: 0.7rem;
+    width: 1rem;
+    transition: 300ms ease all;
   }
 }
 
-#page-tag h1 > i { // tag icon
-  font-size: 1.2rem;
-}
-
-#page-category h1 > i {
-  font-size: 1.25rem;
-}
-
-a:hover {
-  #page-category &,
-  #page-tag &,
-  #access-lastmod & {
-    @extend %link-hover;
-    margin-bottom: -1px; // Avoid jumping
+@media (hover: hover) { // only works on desktop
+  .category-trigger:hover {
+    background-color: var(--categories-hover-bg);
   }
 }
 
-.dash {
-  margin: 0 .5rem .6rem .5rem;
-  border-bottom: 2px dotted var(--dash-color);
-}
-
-@media all and (max-width: 576px) {
-  #page-category, #page-tag {
-    ul > li {
-      &::before {
-        margin: 0 .5rem;
-      }
-      > a {
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-      }
-    }
-  }
+.rotate {
+  -ms-transform: rotate(-90deg); /* IE 9 */
+  -webkit-transform: rotate(-90deg); /* Safari 3-8 */
+  transform: rotate(-90deg);
 }
