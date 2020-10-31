@@ -2,7 +2,7 @@
 title: The cloud and the promise (2014)
 date: 2020-10-31 
 author: Jon
-categories: [prayer]
+categories: [Prayer]
 description: A prayer before proposing to her
 permalink: the-cloud-and-the-promise
 
