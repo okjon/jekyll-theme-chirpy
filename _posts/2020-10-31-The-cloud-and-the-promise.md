@@ -1,5 +1,5 @@
 ---
-title: The cloud and the promise
+title: The cloud and the promise (2014)
 date: 2020-10-31 
 author: Jon
 categories: [prayer]
