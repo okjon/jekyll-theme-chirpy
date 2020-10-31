@@ -8,6 +8,8 @@ title: About
 # MIT License
 ---
 
+  ![Jon](/assets/img/profile.jpg){: width="300" class="left"}
+
 I write, prayers, poems, and prose, sometimes. 
 
 I go by various names, but you can call me Jon.
