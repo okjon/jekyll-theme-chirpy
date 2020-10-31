@@ -22,7 +22,7 @@ url: 'https://curingink.com'
 
 author: Jon                  # change to your full name
 
-avatar: /assets/img/profile.jpg   # support internet resources
+avatar: /assets/img/avatar.png   # support internet resources
 
 github:
   username: github_username             # change to your github username
