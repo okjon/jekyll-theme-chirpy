@@ -7,6 +7,8 @@ categories: [poem]
 
 [![Green sea turtle (Penang, Malaysia)](/assets/img/turtle.jpg){: width="300" class="left"}](https://www.instagram.com/p/B2Gejv_n3pN/)
 
+<br clear="left"/>
+
 > I wrote this for her who was starting a new teaching job in a school. 
 
 My love absconds to bigger ponds
