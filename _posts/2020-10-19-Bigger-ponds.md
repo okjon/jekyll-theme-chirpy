@@ -2,7 +2,7 @@
 title: Bigger ponds (2015)
 date: 2020-10-19 
 author: Jon
-categories: [poem]
+categories: [Poem]
 description: A poem for her when she was starting a teaching job in a new school.
 permalink: bigger-ponds
 
