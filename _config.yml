@@ -200,3 +200,6 @@ utterance:
   repo: okjon/okjon.github.io # Choose the repository utterances will connect to. eg: owner/repo
   issue-term: title   # Choose the mapping between blog posts and GitHub issues. 
   theme: github-dark # Choose an Utterances theme that matches your blog. 'github-light' is default
+  
+  plugins:
+  - jekyll-sitemap
