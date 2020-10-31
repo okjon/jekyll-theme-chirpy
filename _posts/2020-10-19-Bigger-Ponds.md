@@ -3,13 +3,15 @@ title: Bigger Ponds (2015)
 date: 2020-10-19 
 author: Jon
 categories: [poem]
+description: A poem for her when she was starting a teaching job in a new school.
+
 ---
 
 [![Green sea turtle (Penang, Malaysia)](/assets/img/turtle.jpg){: width="300" class="left"}](https://www.instagram.com/p/B2Gejv_n3pN/)
 
 <br clear="left"/>
 
-> I wrote this for her who was starting a new teaching job in a school. 
+> I wrote this for her who was starting a teaching job in a new school. 
 
 My love absconds to bigger ponds
 
