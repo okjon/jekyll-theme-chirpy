@@ -8,7 +8,7 @@ title: About
 # MIT License
 ---
 
-  ![Jon](/assets/img/profile.jpg){: width="300" class="left"}
+  ![Jon](/assets/img/profile.jpeg){: width="300" class="left"}
 
 I write, prayers, poems, and prose, sometimes. 
 
