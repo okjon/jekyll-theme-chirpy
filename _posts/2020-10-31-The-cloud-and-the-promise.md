@@ -8,7 +8,7 @@ permalink: the-cloud-and-the-promise
 
 ---
 
-> On the day before I proposed to her during the worst bout of depression in my life and, I prayed these words.
+> On the day before I proposed to her, during the worst bout of depression in my life, I prayed these words.
 
 I write these words while still fending off this hound haunting my steps. 
 
