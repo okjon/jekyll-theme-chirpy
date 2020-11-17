@@ -1,4 +1,12 @@
+---
+title: Bigger ponds (2017)
+date: 2020-11-17 
+author: Jon
+categories: [Prose]
+description: A letter for a groom
+permalink: operation-HEARTKEEP
 
+---
 
 
 [![Letter, (Sydney, Australia)](/assets/img/cloud.jpg){: width="300" class="left"}](https://www.instagram.com/p/Ba-z2CVnPwy/)
