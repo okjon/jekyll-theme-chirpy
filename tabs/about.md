@@ -12,7 +12,7 @@ title: About
   
 <br clear="left"/>
 
-I write, prayers, poems, and prose, sometimes. 
+I write prayers, poems, and prose, sometimes. 
 
 I go by various names, but you can call me Jon.
 
