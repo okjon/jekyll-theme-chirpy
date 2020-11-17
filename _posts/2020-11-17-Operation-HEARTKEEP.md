@@ -31,5 +31,5 @@ Should you wish to accept, I trust you will carry out the mission with gusto and
 
 Godspeed,  
 
-Mr Ok
+Mr Ok  
 Secretary for the Department of Peacekeeping
