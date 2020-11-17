@@ -10,6 +10,8 @@ permalink: the-cloud-and-the-promise
 
 [![The cloud and promise (Canberra, Australia)](/assets/img/cloud.jpg){: width="300" class="left"}](https://www.instagram.com/p/BGBYgT3oqnG/)
 
+<br clear="left"/>
+
 > On the day before I proposed to her, during the worst bout of depression in my life, I prayed these words.
 
 I write these words while still fending off this hound haunting my steps. 
