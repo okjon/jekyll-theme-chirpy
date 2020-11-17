@@ -9,7 +9,7 @@ permalink: operation-HEARTKEEP
 ---
 
 
-[![Letter, (Sydney, Australia)](/assets/img/cloud.jpg){: width="300" class="left"}](https://www.instagram.com/p/Ba-z2CVnPwy/)
+[![Letter, (Sydney, Australia)](/assets/img/letter.jpg){: width="300" class="left"}](https://www.instagram.com/p/Ba-z2CVnPwy/)
 
 <br clear="left"/>
 
