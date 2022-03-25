@@ -8,7 +8,7 @@ permalink: bigger-ponds
 
 ---
 
-[![Green sea turtle (Penang, Malaysia)](/assets/img/turtle.jpg){: width="300" class="left"}](https://www.instagram.com/p/B2Gejv_n3pN/)
+[![엄마)](/assets/img/omma.jpg){: width="300" class="left"}](https://www.instagram.com/p/CbgzYvCvN-K/)
 
 <br clear="left"/>
 
